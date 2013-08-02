@@ -1,9 +1,9 @@
-Configuring Lasso 9/Apache 2.4/RHEL and CentOS 6.4
-==================================================
+Configuring Lasso 9/Apache 2.4 on RHEL 6.4 or CentOS 6.4
+========================================================
 
 This documentation describes how to install and configure an environment that
 will allow Lasso 9 to run with a custom installation of Apache 2.4.x on Red Hat
-Enterprise Linux 6.4/CentOS 6.4.
+Enterprise Linux 6.4 or CentOS 6.4.
 
 Apache 2.2.x is the supported version for RHEL 6.4/CentOS 6.4.  At the time of
 this writing, LassoSoft supports only officially supported packages and

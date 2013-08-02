@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Lasso 9/Apache 2.4/RHEL and CentOS 6.4 Documentation'
+project = u'Configuring Lasso 9/Apache 2.4 on RHEL 6.4 or CentOS 6.4'
 copyright = u'2013, Steve Piercy.'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -188,7 +188,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'lasso9-apache24-rhel64-centos64.tex', u'Lasso 9/Apache 2.4/RHEL and CentOS 6.4 Documentation',
+  ('index', 'lasso9-apache24-rhel64-centos64.tex', u'Configuring Lasso 9/Apache 2.4 on RHEL 6.4 or CentOS 6.4',
    u'Steve Piercy', 'manual'),
 ]
 
@@ -218,7 +218,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'lasso9-apache24-rhel64-centos64', u'Lasso 9/Apache 2.4/RHEL and CentOS 6.4 Documentation',
+    ('index', 'lasso9-apache24-rhel64-centos64', u'Configuring Lasso 9/Apache 2.4 on RHEL 6.4 or CentOS 6.4',
      [u'Steve Piercy'], 1)
 ]
 
@@ -232,8 +232,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'lasso9-apache24-rhel64-centos64', u'Lasso 9/Apache 2.4/RHEL and CentOS 6.4 Documentation',
-   u'Steve Piercy', 'lasso9-apache24-rhel64-centos64', 'Lasso 9/Apache 2.4/RHEL and CentOS 6.4 Documentation',
+  ('index', 'lasso9-apache24-rhel64-centos64', u'Configuring Lasso 9/Apache 2.4 on RHEL 6.4 or CentOS 6.4',
+   u'Steve Piercy', 'lasso9-apache24-rhel64-centos64', 'Configuring Lasso 9/Apache 2.4 on RHEL 6.4 or CentOS 6.4',
    'Miscellaneous'),
 ]
 
@@ -250,7 +250,7 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'Lasso 9/Apache 2.4/RHEL and CentOS 6.4 Documentation'
+epub_title = u'Configuring Lasso 9/Apache 2.4 on RHEL 6.4 or CentOS 6.4'
 epub_author = u'Steve Piercy'
 epub_publisher = u'Steve Piercy'
 epub_copyright = u'2013, Steve Piercy'
